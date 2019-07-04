@@ -1,2 +1,2 @@
 # Customer-Churn-Modeling
-The project implemented an Artificial Neural Network that can predict, based on geo-demographical and transactional information of the customers, if any individual customer will leave the bank or stay (customer churn). 
+The project implemented an Artificial Neural Network that can predict, based on geo-demographical and transactional information of the customers, if any individual customer will leave the bank or stay (customer churn). Also, based on deep learning of the ANN, the model could rank all the customers of the bank by their probability of leaving, which may help the bank to locate problems and significantly reduce customer churn.
